@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fe540ee.css",
+    "main.js": "/static/js/main.3ce9a8e8.js",
+    "static/js/453.b7695ff2.chunk.js": "/static/js/453.b7695ff2.chunk.js",
+    "static/media/babywoman.png": "/static/media/babywoman.298302a1065845787703.png",
+    "static/media/home_hero.png": "/static/media/home_hero.3dc3287cf82fde4d18c3.png",
+    "static/media/videoimg.png": "/static/media/videoimg.7be095856ba0cae50418.png",
+    "static/media/Tenant.png": "/static/media/Tenant.1d8e1eef17fc00edad40.png",
+    "static/media/handhouse.png": "/static/media/handhouse.a28291a5c3c982194c0d.png",
+    "static/media/png.png": "/static/media/png.b4d06ae27f6622108512.png",
+    "static/media/face.png": "/static/media/face.be8e6e534a089ae10d64.png",
+    "static/media/hands.png": "/static/media/hands.567454769e5a489efc15.png",
+    "static/media/house.png": "/static/media/house.6155c6db3fb1118d07c3.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9fe540ee.css.map": "/static/css/main.9fe540ee.css.map",
+    "main.3ce9a8e8.js.map": "/static/js/main.3ce9a8e8.js.map",
+    "453.b7695ff2.chunk.js.map": "/static/js/453.b7695ff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe540ee.css",
+    "static/js/main.3ce9a8e8.js"
+  ]
+}
